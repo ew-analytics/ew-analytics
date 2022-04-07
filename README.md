@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ew-analytics
-- 👀 This folder will share with you personnal projects in statiscal computing and quantitative finance
+- 👀 This folder will share with my you personnal projects in statistical leraning and quantitative finance
 - 🌱 I’m currently learning data science and big data at Unversity Paris Dauphine-PSL
-- 💞️ I’m looking to collaborate on application of predictive modeling and machine learning in social sciences
+- 💞️ I’m looking to collaborate on the application of statistical modeling and machine learning in social sciences
 - 📫 elgric.wandji@ew-analytics.com
 
 <!---
